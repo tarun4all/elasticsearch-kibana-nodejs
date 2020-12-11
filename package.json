@@ -1,0 +1,25 @@
+{
+  "name": "elasticsearch-kibana-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Tarun Bansal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarun4all/elasticsearch-kibana-nodejs.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarun4all/elasticsearch-kibana-nodejs/issues"
+  },
+  "homepage": "https://github.com/tarun4all/elasticsearch-kibana-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1"
+  }
+}
